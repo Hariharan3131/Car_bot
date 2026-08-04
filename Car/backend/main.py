@@ -17,7 +17,6 @@ async def lifespan(app: FastAPI):
     except Exception as e:
         print(f"❌ Error loading data: {e}")
     yield
-    # no cleanup needed currently
 
 
 app = FastAPI(
@@ -30,7 +29,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=False,   # note: True + "*" origins is invalid per CORS spec
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -59,14 +58,12 @@ def ask_question(request: QueryRequest):
         return {"error": "RAG system not ready yet"}
 
     try:
-        results = rag.query(request.question, k=3)
+        result = rag.generate_answer(request.question, k=4)
     except Exception as e:
-        return {"error": f"Search failed: {e}"}
-
-    context = "\n\n".join([doc.page_content for doc in results])
+        return {"error": f"Failed to generate answer: {e}"}
 
     return {
         "question": request.question,
-        "relevant_cars": context,
-        "message": "This is the retrieved context. We will add LLM answer next."
+        "answer": result["answer"],
+        "sources": result["sources"]
     }
