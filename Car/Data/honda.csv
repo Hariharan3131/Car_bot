@@ -1,0 +1,26 @@
+brand,model,variant,body_type,fuel_type,transmission,engine_spec,price_range_exshowroom_in_lakh,mileage_or_range,seating_capacity,boot_space_liters,safety_rating,features,key_highlights,pros,cons,best_for,brochure_link
+Honda,Amaze,E,Sedan,Petrol,Manual,1.2L i-VTEC Petrol (90PS/110Nm),7.51,18 kmpl,5,420,Not specified,Touchscreen basic,Entry Amaze affordable,Budget sedan,Basic features,Budget sedan,https://www.hondacarindia.com
+Honda,Amaze,S,Sedan,Petrol,Manual,1.2L i-VTEC Petrol (90PS/110Nm),8.01,18 kmpl,5,420,Not specified,Touchscreen dual airbags,Popular mid Amaze,Good balance,Price higher,Value Amaze,https://www.hondacarindia.com
+Honda,Amaze,V,Sedan,Petrol,Manual,1.2L i-VTEC Petrol (90PS/110Nm),8.51,18 kmpl,5,420,Not specified,Touchscreen 4 airbags,Feature mid Amaze,Good features,Manual,Feature Amaze,https://www.hondacarindia.com
+Honda,Amaze,SX,Sedan,Petrol,Manual,1.2L i-VTEC Petrol (90PS/110Nm),9.01,18 kmpl,5,420,Not specified,Touchscreen premium,Top mid Amaze,Best features,Expensive,Top mid Amaze,https://www.hondacarindia.com
+Honda,Amaze,VX,Sedan,Petrol,Manual,1.2L i-VTEC Petrol (90PS/110Nm),9.51,18 kmpl,5,420,Not specified,Touchscreen 6 airbags,Top Amaze safety,Best safety,Price higher,Safety Amaze,https://www.hondacarindia.com
+Honda,Amaze,VX CVT,Sedan,Petrol,Automatic CVT,1.2L i-VTEC Petrol (90PS/110Nm),10.01,17.5 kmpl,5,420,Not specified,CVT automatic premium,CVT Amaze,Easy CVT drive,CVT price,CVT Amaze,https://www.hondacarindia.com
+Honda,Amaze,SX CVT,Sedan,Petrol,Automatic CVT,1.2L i-VTEC Petrol (90PS/110Nm),10.51,17.5 kmpl,5,420,Not specified,CVT automatic mid,Mid CVT Amaze,Good CVT,Price higher,Mid CVT,https://www.hondacarindia.com
+Honda,Amaze,VX CNG,Sedan,CNG,Manual,1.2L CNG,8.50,24 km/kg,5,420,Not specified,CNG basic sedan,Budget CNG Amaze,Cost effective,Slower,Budget CNG,https://www.hondacarindia.com
+Honda,Amaze,VX+ CNG,Sedan,CNG,Manual,1.2L CNG,9.50,24 km/kg,5,420,Not specified,CNG premium top,Top CNG Amaze,Full CNG features,Expensive,Top CNG,https://www.hondacarindia.com
+Honda,City,E,Sedan,Petrol,Manual,1.5L i-VTEC Petrol (121PS/145Nm),11.49,18 kmpl,5,506,4 Star,Touchscreen basic,Entry City premium sedan,Budget City,Basic features,Budget City,https://www.hondacarindia.com
+Honda,City,S,Sedan,Petrol,Manual,1.5L i-VTEC Petrol (121PS/145Nm),12.00,18 kmpl,5,506,4 Star,Touchscreen dual airbags,Popular mid City,Good balance,Price higher,Value City,https://www.hondacarindia.com
+Honda,City,V,Sedan,Petrol,Manual,1.5L i-VTEC Petrol (121PS/145Nm),12.50,18 kmpl,5,506,4 Star,Touchscreen 4 airbags,Feature mid City,Good features,Manual,Feature City,https://www.hondacarindia.com
+Honda,City,SX,Sedan,Petrol,Manual,1.5L i-VTEC Petrol (121PS/145Nm),13.00,18 kmpl,5,506,4 Star,Touchscreen premium,Top mid City,Best features,Expensive,Top mid City,https://www.hondacarindia.com
+Honda,City,VX,Sedan,Petrol,Manual,1.5L i-VTEC Petrol (121PS/145Nm),13.50,18 kmpl,5,506,4 Star,Touchscreen 6 airbags,Top City safety,Best safety,Price higher,Safety City,https://www.hondacarindia.com
+Honda,City,VX CVT,Sedan,Petrol,Automatic CVT,1.5L i-VTEC Petrol (121PS/145Nm),14.50,17.5 kmpl,5,506,4 Star,CVT automatic premium,CVT City,Easy CVT drive,CVT price,CVT City,https://www.hondacarindia.com
+Honda,City,SX CVT,Sedan,Petrol,Automatic CVT,1.5L i-VTEC Petrol (121PS/145Nm),14.00,17.5 kmpl,5,506,4 Star,CVT automatic mid,Mid CVT City,Good CVT,Price higher,Mid CVT City,https://www.hondacarindia.com
+Honda,City e:HEV,RS,Hybrid Sedan,Hybrid,Automatic,1.5L i-VTEC Hybrid (126PS),20.55,27.1 kmpl,5,424,4 Star,Hybrid premium sedan,Entry City Hybrid,Budget hybrid sedan,Hybrid price,Budget hybrid,https://www.hondacarindia.com
+Honda,City e:HEV,RS Plus,Hybrid Sedan,Hybrid,Automatic,1.5L i-VTEC Hybrid (126PS),21.00,27.1 kmpl,5,424,4 Star,Hybrid ultimate sedan,Ultimate City Hybrid,Ultimate hybrid,Most expensive,Ultimate hybrid,https://www.hondacarindia.com
+Honda,Elevate,S,SUV,Petrol,Manual,1.5L i-VTEC Petrol (121PS/145Nm),11.60,15.31 kmpl,5,443,4 Star,Touchscreen basic,Entry Elevate compact SUV,Budget Elevate,Basic features,Budget Elevate,https://www.hondacarindia.com
+Honda,Elevate,V,SUV,Petrol,Manual,1.5L i-VTEC Petrol (121PS/145Nm),12.50,15.31 kmpl,5,443,4 Star,Touchscreen dual airbags,Popular mid Elevate,Good balance,Price higher,Value Elevate,https://www.hondacarindia.com
+Honda,Elevate,VX,SUV,Petrol,Manual,1.5L i-VTEC Petrol (121PS/145Nm),13.50,15.31 kmpl,5,443,4 Star,Touchscreen 4 airbags,Feature mid Elevate,Good features,Manual,Feature Elevate,https://www.hondacarindia.com
+Honda,Elevate VX,SUV,Petrol,Manual,1.5L i-VTEC Petrol (121PS/145Nm),14.50,15.31 kmpl,5,443,4 Star,Touchscreen premium,Top mid Elevate,Best features,Expensive,Top mid Elevate,https://www.hondacarindia.com
+Honda,Elevate,VX CVT,SUV,Petrol,Automatic CVT,1.5L i-VTEC Petrol (121PS/145Nm),15.50,14.5 kmpl,5,443,4 Star,CVT automatic premium,CVT Elevate,Easy CVT drive,CVT price,CVT Elevate,https://www.hondacarindia.com
+Honda,Elevate,VX CVT All,SUV,Petrol,Automatic CVT,1.5L i-VTEC Petrol (121PS/145Nm),16.50,14 kmpl,5,443,4 Star,CVT All wheel,CVT All Elevate,All wheel CVT,Expensive,CVT All,https://www.hondacarindia.com
+Honda,Elevate,VX Top,SUV,Petrol,Manual,1.5L i-VTEC Petrol (121PS/145Nm),16.63,15.31 kmpl,5,443,4 Star,Touchscreen 6 airbags,Top Elevate safety,Best safety,Price higher,Safety Elevate,https://www.hondacarindia.com
